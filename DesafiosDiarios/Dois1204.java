@@ -1,4 +1,4 @@
-package infernodesgraçabucetacaralho;
+package DesafiosDiarios;
 
 public class Dois1204 {
 	
